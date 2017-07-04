@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_checkbox_checked.png",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_checkbox_checked.png"
+    },
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_fileselect_file.png",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_fileselect_file.png"
+    },
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_fileselect_folder.png",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_fileselect_folder.png"
+    },
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_checkbox_unchecked.png",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_checkbox_unchecked.png"
+    }
+]

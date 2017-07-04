@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\debug\\menu\\fs.xml",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\src\\main\\res\\menu\\fs.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\debug\\menu\\file_select.xml",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\src\\main\\res\\menu\\file_select.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\PhotoGallery\\FileChooser\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android_projects\\PhotoGallery\\FileChooser\\src\\main\\res\\menu\\main.xml"
+    }
+]
